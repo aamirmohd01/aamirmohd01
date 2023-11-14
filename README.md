@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aamirmohd01
 - 👀 I’m interested in coding and solving problems.
-- 🌱 I’m currently learning web development,
-- 💞️ I’m looking to collaborate on project related to web.
+- 🌱 Interested in Data Science.
+- 💞️ I’m looking to collaborate on project related to Data Science.
 - 📫 How to reach me? ... just drop a message..
 
 <!---
